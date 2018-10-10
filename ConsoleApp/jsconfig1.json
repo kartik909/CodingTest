@@ -1,0 +1,15 @@
+// To provide configuration file in json format
+{
+    "exclude": [
+        "**/bin",
+        "**/bower_components",
+        "**/jspm_packages",
+        "**/node_modules",
+        "**/obj",
+        "**/platforms"
+    ]
+    "Title": {
+
+    },
+    "WHERETOWRITE": "CONSOLE"
+}
